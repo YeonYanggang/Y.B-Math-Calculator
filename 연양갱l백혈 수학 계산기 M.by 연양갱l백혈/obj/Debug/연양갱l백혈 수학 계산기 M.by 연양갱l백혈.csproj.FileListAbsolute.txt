@@ -1,0 +1,6 @@
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\bin\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.exe.config
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\bin\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.exe
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\bin\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.pdb
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\obj\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.exe
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\obj\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.pdb
+C:\Users\전경민\C#\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\연양갱l백혈 수학 계산기 M.by 연양갱l백혈\obj\Debug\연양갱l백혈 수학 계산기 M.by 연양갱l백혈.csprojResolveAssemblyReference.cache
